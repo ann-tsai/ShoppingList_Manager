@@ -1,0 +1,14 @@
+{
+  "purchased list": [
+    {
+      "product name": "jeans",
+      "category": "clothing",
+      "price": 25
+    },
+    {
+      "product name": "black t-shirt",
+      "category": "clothing",
+      "price": 15
+    }
+  ]
+}

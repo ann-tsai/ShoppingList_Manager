@@ -1,0 +1,14 @@
+{
+  "shopping list": [
+    {
+      "product name": "white t-shirt",
+      "category": "clothing",
+      "price": 10
+    },
+    {
+      "product name": "glasses",
+      "category": "accessory",
+      "price": 20
+    }
+  ]
+}
